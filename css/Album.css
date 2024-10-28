@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/descarga.jpg);
+}
+.card{
+    background-color: rgb(41, 42, 46);
+    color: aliceblue;
+    margin-left: 20px;
+    border: none;
+    float: left;;
+    border-radius: 10px;
+}
+
+

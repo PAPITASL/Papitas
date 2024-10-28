@@ -1,0 +1,10 @@
+/* ini.css */
+
+/* Cambiar el color de fondo del cuerpo */
+body{
+    background-image: url(../img/descarga.jpg);
+}
+.navbar-nav{
+    right: 1000px;
+}
+
